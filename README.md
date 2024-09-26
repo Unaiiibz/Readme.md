@@ -3,7 +3,7 @@
 # H1 Título
 ## H2 Subtítulo
 
-** Este texto está en ngerita **
+** Este texto está en negrita **
 * * Este texto está en cursiva * *
 ~~ Este texto está tachado ~~
 
